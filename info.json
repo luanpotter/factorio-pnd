@@ -1,0 +1,8 @@
+{
+	"name": "place-and-destroy",
+	"version": "0.0.1",
+	"title": "Place & Destroy",
+	"author": "luanpotter",
+	"description": "Even more automation with Placers and Destroyers",
+	"dependencies": ["base >= 0.12.20", "Wrench >= 0.0.3"]
+}
